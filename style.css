@@ -1,0 +1,47 @@
+/* google fond design */
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif
+}
+/* background color in navbar and button */
+.background-color {
+    background-color:#FFFFFF;
+}
+.button-design{
+    color: #3F87F5;
+    text-decoration:none;
+    
+}
+.background-color-plan{
+    background-color:#3F87F5 ;
+    color: #FFFFFF;
+}
+.explore-now-button{
+
+    background-color:#3F87F5;
+}
+.explore-button-design{
+    color: #FFFFFF;
+    text-decoration:none;
+}
+.hot-div{
+    color: #FFFFFF;
+}
+.xtra-part{
+    background-color: #3F87F5;
+    border-radius: 20px;
+   padding: 20px;
+   color: #FFFFFF;
+}
+@media only screen and (min-width:375px) and (max-width:667px){
+    .mb-font{
+        font-size:small !important;
+        padding: 0;
+        margin: 0;
+    }
+.b-size{
+    padding: 0;
+    margin: 0;
+}
+}
