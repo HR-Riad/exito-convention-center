@@ -1,1 +1,1 @@
-[# exito-convention-center](https://exito-convention-center.netlify.app/)
+https://exito-convention-center.netlify.app/
